@@ -1,4 +1,4 @@
-#!/home/aboka/Code/Python/TelegramBot/bin/python
+#!/home/aboka/Code/Python/TelegramBot/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
